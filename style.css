@@ -195,8 +195,8 @@ footer hr {
 
   #sidenav {
   	width: 20%;
-  	border: 3px solid #978484;
   	border-radius: 10px;
+  	background-color: #978484;
   	float: left;
 }
 
@@ -216,13 +216,14 @@ footer hr {
  
 #sidenav p {
 	font-size: 16px;
-	font-style: italic;
 	font-weight: bold;
 	padding: 0 20px;
+	color: white;
 }
 
 #sidenav hr {
-	border: 1px solid #978484;
+	border: 1px solid #d9c5c5;
+	width: 95%;
 }
 
 .article {
