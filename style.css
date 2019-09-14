@@ -116,7 +116,7 @@ footer hr {
 	text-align: center;
 }
 
-/*About me*/
+/*header for the pages: about me, blog, contact*/
 
 #banner {
   	position: relative;
@@ -138,6 +138,8 @@ footer hr {
   	text-transform: uppercase;
   	font-size: 2.3em;
 }
+
+/*About me*/
 
 #about {
   	width: 50%;
